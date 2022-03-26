@@ -65,7 +65,7 @@
             this.tableLayoutPanel1.Name = "tableLayoutPanel1";
             this.tableLayoutPanel1.RowCount = 1;
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle());
-            this.tableLayoutPanel1.Size = new System.Drawing.Size(895, 100);
+            this.tableLayoutPanel1.Size = new System.Drawing.Size(926, 100);
             this.tableLayoutPanel1.TabIndex = 0;
             // 
             // pictureBox1
@@ -74,7 +74,7 @@
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
             this.pictureBox1.Location = new System.Drawing.Point(3, 3);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(334, 95);
+            this.pictureBox1.Size = new System.Drawing.Size(345, 95);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
@@ -83,9 +83,9 @@
             // 
             this.pictureBox2.Dock = System.Windows.Forms.DockStyle.Fill;
             this.pictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox2.Image")));
-            this.pictureBox2.Location = new System.Drawing.Point(343, 3);
+            this.pictureBox2.Location = new System.Drawing.Point(354, 3);
             this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(549, 95);
+            this.pictureBox2.Size = new System.Drawing.Size(569, 95);
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox2.TabIndex = 1;
             this.pictureBox2.TabStop = false;
@@ -102,7 +102,7 @@
             this.tableLayoutPanel2.Name = "tableLayoutPanel2";
             this.tableLayoutPanel2.RowCount = 1;
             this.tableLayoutPanel2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.tableLayoutPanel2.Size = new System.Drawing.Size(895, 533);
+            this.tableLayoutPanel2.Size = new System.Drawing.Size(926, 519);
             this.tableLayoutPanel2.TabIndex = 1;
             // 
             // tableLayoutPanel3
@@ -135,16 +135,16 @@
             this.tableLayoutPanel3.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 10F));
             this.tableLayoutPanel3.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 10F));
             this.tableLayoutPanel3.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 20F));
-            this.tableLayoutPanel3.Size = new System.Drawing.Size(262, 527);
+            this.tableLayoutPanel3.Size = new System.Drawing.Size(271, 513);
             this.tableLayoutPanel3.TabIndex = 0;
             // 
             // pictureBox3
             // 
             this.pictureBox3.Dock = System.Windows.Forms.DockStyle.Fill;
             this.pictureBox3.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox3.Image")));
-            this.pictureBox3.Location = new System.Drawing.Point(3, 471);
+            this.pictureBox3.Location = new System.Drawing.Point(3, 462);
             this.pictureBox3.Name = "pictureBox3";
-            this.pictureBox3.Size = new System.Drawing.Size(256, 53);
+            this.pictureBox3.Size = new System.Drawing.Size(265, 48);
             this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox3.TabIndex = 9;
             this.pictureBox3.TabStop = false;
@@ -157,7 +157,7 @@
             this.label1.ForeColor = System.Drawing.SystemColors.HighlightText;
             this.label1.Location = new System.Drawing.Point(3, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(256, 52);
+            this.label1.Size = new System.Drawing.Size(265, 51);
             this.label1.TabIndex = 10;
             this.label1.Text = "掃描文件";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -168,9 +168,9 @@
             this.label2.Dock = System.Windows.Forms.DockStyle.Fill;
             this.label2.Font = new System.Drawing.Font("新細明體", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.label2.ForeColor = System.Drawing.SystemColors.HighlightText;
-            this.label2.Location = new System.Drawing.Point(3, 52);
+            this.label2.Location = new System.Drawing.Point(3, 51);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(256, 52);
+            this.label2.Size = new System.Drawing.Size(265, 51);
             this.label2.TabIndex = 11;
             this.label2.Text = "繪筆";
             this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -181,9 +181,9 @@
             this.label3.Dock = System.Windows.Forms.DockStyle.Fill;
             this.label3.Font = new System.Drawing.Font("新細明體", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.label3.ForeColor = System.Drawing.SystemColors.HighlightText;
-            this.label3.Location = new System.Drawing.Point(3, 104);
+            this.label3.Location = new System.Drawing.Point(3, 102);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(256, 52);
+            this.label3.Size = new System.Drawing.Size(265, 51);
             this.label3.TabIndex = 12;
             this.label3.Text = "螢光筆";
             this.label3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -194,9 +194,9 @@
             this.label4.Dock = System.Windows.Forms.DockStyle.Fill;
             this.label4.Font = new System.Drawing.Font("新細明體", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.label4.ForeColor = System.Drawing.SystemColors.HighlightText;
-            this.label4.Location = new System.Drawing.Point(3, 156);
+            this.label4.Location = new System.Drawing.Point(3, 153);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(256, 52);
+            this.label4.Size = new System.Drawing.Size(265, 51);
             this.label4.TabIndex = 13;
             this.label4.Text = "清除";
             this.label4.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -207,9 +207,9 @@
             this.label5.Dock = System.Windows.Forms.DockStyle.Fill;
             this.label5.Font = new System.Drawing.Font("新細明體", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.label5.ForeColor = System.Drawing.SystemColors.HighlightText;
-            this.label5.Location = new System.Drawing.Point(3, 208);
+            this.label5.Location = new System.Drawing.Point(3, 204);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(256, 52);
+            this.label5.Size = new System.Drawing.Size(265, 51);
             this.label5.TabIndex = 14;
             this.label5.Text = "指引模式";
             this.label5.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -220,9 +220,9 @@
             this.label6.Dock = System.Windows.Forms.DockStyle.Fill;
             this.label6.Font = new System.Drawing.Font("新細明體", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.label6.ForeColor = System.Drawing.SystemColors.HighlightText;
-            this.label6.Location = new System.Drawing.Point(3, 260);
+            this.label6.Location = new System.Drawing.Point(3, 255);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(256, 52);
+            this.label6.Size = new System.Drawing.Size(265, 51);
             this.label6.TabIndex = 15;
             this.label6.Text = "調整頁寬";
             this.label6.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -233,9 +233,9 @@
             this.label7.Dock = System.Windows.Forms.DockStyle.Fill;
             this.label7.Font = new System.Drawing.Font("新細明體", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.label7.ForeColor = System.Drawing.SystemColors.HighlightText;
-            this.label7.Location = new System.Drawing.Point(3, 312);
+            this.label7.Location = new System.Drawing.Point(3, 306);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(256, 52);
+            this.label7.Size = new System.Drawing.Size(265, 51);
             this.label7.TabIndex = 16;
             this.label7.Text = "開啟檔案";
             this.label7.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -246,9 +246,9 @@
             this.label8.Dock = System.Windows.Forms.DockStyle.Fill;
             this.label8.Font = new System.Drawing.Font("新細明體", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.label8.ForeColor = System.Drawing.SystemColors.HighlightText;
-            this.label8.Location = new System.Drawing.Point(3, 364);
+            this.label8.Location = new System.Drawing.Point(3, 357);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(256, 52);
+            this.label8.Size = new System.Drawing.Size(265, 51);
             this.label8.TabIndex = 17;
             this.label8.Text = "另存新檔";
             this.label8.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -259,9 +259,9 @@
             this.label9.Dock = System.Windows.Forms.DockStyle.Fill;
             this.label9.Font = new System.Drawing.Font("新細明體", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.label9.ForeColor = System.Drawing.SystemColors.HighlightText;
-            this.label9.Location = new System.Drawing.Point(3, 416);
+            this.label9.Location = new System.Drawing.Point(3, 408);
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(256, 52);
+            this.label9.Size = new System.Drawing.Size(265, 51);
             this.label9.TabIndex = 18;
             this.label9.Text = "列印";
             this.label9.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -270,7 +270,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(895, 633);
+            this.ClientSize = new System.Drawing.Size(926, 619);
             this.Controls.Add(this.tableLayoutPanel2);
             this.Controls.Add(this.tableLayoutPanel1);
             this.Name = "Form1";
